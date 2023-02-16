@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Official jQuery Podcast</title>
+	<atom:link href="http://podcast.jquery.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://podcast.jquery.com</link>
+	<description>The Official jQuery Podcast</description>
+	<lastBuildDate>Tue, 07 Jun 2011 13:16:40 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0.4</generator>
+		<item>
+		<title>jQCon &#8217;11: SF Bay Area &#8211; Panel Q &amp; A</title>
+		<link>http://podcast.jquery.com/2011/06/07/jqcon-11-sf-bay-area-panel-q-a/</link>
+		<comments>http://podcast.jquery.com/2011/06/07/jqcon-11-sf-bay-area-panel-q-a/#comments</comments>
+		<pubDate>Tue, 07 Jun 2011 13:16:40 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=358</guid>
+		<description><![CDATA[Listen in on the jQuery Conference 2011: San Francisco Bay Area Conference Panel Discussion that was held at the end of the conference. Ralph Whitbeck moderates a panel of team members, John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl as they answer questions from the audience. You can subscribe to [...]]]></description>
+			<content:encoded><![CDATA[<p>Listen in on the jQuery Conference 2011: San Francisco Bay Area Conference Panel Discussion that was held at the end of the conference.  Ralph Whitbeck moderates a panel of team members, John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl as they answer questions from the audience.<br />
+<span id="more-358"></span><br />
+<em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/5l-ZhrYFrTM/jQueryPodcast-046-jQConPanel.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/06/07/jqcon-11-sf-bay-area-panel-q-a/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/5l-ZhrYFrTM/jQueryPodcast-046-jQConPanel.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQCon &#8217;11: SF Bay Area &#8211; jQuery UI Keynote</title>
+		<link>http://podcast.jquery.com/2011/05/20/jqcon-11-sf-bay-area-jquery-ui-keynote/</link>
+		<comments>http://podcast.jquery.com/2011/05/20/jqcon-11-sf-bay-area-jquery-ui-keynote/#comments</comments>
+		<pubDate>Fri, 20 May 2011 15:49:26 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=350</guid>
+		<description><![CDATA[This week we bring you the jQuery UI Keynote given by Richard Worth at the jQuery Conference 2011: San Francisco Bay Area. Rich presents the state of jQuery UI as well as provide a preview into the new Grid control project. You can subscribe to the show in iTunes or via the raw RSS feed [...]]]></description>
+			<content:encoded><![CDATA[<p>This week we bring you the jQuery UI Keynote given by Richard Worth at the jQuery Conference 2011: San Francisco Bay Area.  Rich presents the state of jQuery UI as well as provide a preview into the new Grid control project. </p>
+<p><span id="more-350"></span><br />
+<em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/rKkEf7nBTvw/jQueryPodcast-045-jQueryUIKeynote.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/05/20/jqcon-11-sf-bay-area-jquery-ui-keynote/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/rKkEf7nBTvw/jQueryPodcast-045-jQueryUIKeynote.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQuery 1.5 &#8211; 1.6.1</title>
+		<link>http://podcast.jquery.com/2011/05/13/jquery-1-5-1-6-1/</link>
+		<comments>http://podcast.jquery.com/2011/05/13/jquery-1-5-1-6-1/#comments</comments>
+		<pubDate>Fri, 13 May 2011 13:57:07 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=347</guid>
+		<description><![CDATA[We talk with jQuery Core Team Member on the bug triage team, David Methvin about the last few jQuery released. We discuss the bug triage team, how to get involved and the new features of the last few releases. Links mentioned on the show bugs.jquery.com Nightly build of jquery Extending Ajax Documentation Using Deferreds in [...]]]></description>
+			<content:encoded><![CDATA[<p>We talk with jQuery Core Team Member on the bug triage team, David Methvin about the last few jQuery released.  We discuss the bug triage team, how to get involved and the new features of the last few releases.</p>
+<p><span id="more-347"></span></p>
+<p><strong>Links mentioned on the show</strong></p>
+<ul>
+<li><a href="http://bugs.jquery.com">bugs.jquery.com</a></li>
+<li><a href="http://code.jquery.com/jquery-git.js">Nightly build of jquery</a></li>
+<li><a href="http://api.jquery.com/extending-ajax/">Extending Ajax Documentation</a></li>
+<p><a href="http://www.erichynds.com/jquery/using-deferreds-in-jquery/">Using Deferreds in jQuery &#8211; Eric Hynds</a></li>
+<li><a href="https://developer.mozilla.org/en/DOM/window.mozRequestAnimationFrame">window.mozRequestAnimationFrame</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/yzJpwf_Xbe8/jQueryPodcast-044-jQuery15161.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/05/13/jquery-1-5-1-6-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/yzJpwf_Xbe8/jQueryPodcast-044-jQuery15161.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>RewardJS</title>
+		<link>http://podcast.jquery.com/2011/05/11/rewardjs/</link>
+		<comments>http://podcast.jquery.com/2011/05/11/rewardjs/#comments</comments>
+		<pubDate>Wed, 11 May 2011 03:28:55 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=342</guid>
+		<description><![CDATA[This week we take a look at the RewardJS project that Richard D. Worth has put together. RewardJS is a campaign to reward developers that fix bugs in a open source project with daily, weekly and a monthly prize for the most bugs fixed. The content is already a week and a half old but [...]]]></description>
+			<content:encoded><![CDATA[<p>This week we take a look at the RewardJS project that Richard D. Worth has put together.  RewardJS is a campaign to reward developers that fix bugs in a open source project with daily, weekly and a monthly prize for the most bugs fixed.  The content is already a week and a half old but there is still plenty of time to jump in and win a prize.  Prizes already have included, XBox 360, Wii, iPad 2, Apple MacBook Air and many more. This month the campaign is targeting jQuery UI bugs.<br />
+<span id="more-342"></span><br />
+<strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://rewardjs.com">RewardJS</a></li>
+<li><a href="http://jQueryUI.com">jQuery UI</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/xSreiRte2G0/jQueryPodcast-043-RewardJS.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/05/11/rewardjs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/xSreiRte2G0/jQueryPodcast-043-RewardJS.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQCon &#8217;11: SF Bay Area &#8211; jQuery Mobile Keynote</title>
+		<link>http://podcast.jquery.com/2011/04/29/episode-42-jquery-mobile-keynote/</link>
+		<comments>http://podcast.jquery.com/2011/04/29/episode-42-jquery-mobile-keynote/#comments</comments>
+		<pubDate>Fri, 29 Apr 2011 04:09:23 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=335</guid>
+		<description><![CDATA[This week we bring you the jQuery Mobile keynote from the jQuery Conference 2011: San Francisco Bay Area. Todd Parker and Scott Jehl of Filament Group give us the state of jQuery Mobile plus go over the framework at a beginner level. Next week we will bring you the jQuery UI keynote. Links from the [...]]]></description>
+			<content:encoded><![CDATA[<p>This week we bring you the jQuery Mobile keynote from the jQuery Conference 2011: San Francisco Bay Area.  Todd Parker and Scott Jehl of Filament Group give us the state of jQuery Mobile plus go over the framework at a beginner level.  Next week we will bring you the jQuery UI keynote.<br />
+<span id="more-335"></span></p>
+<p><strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/">Slides</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/tpU00prUkjo/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/04/29/episode-42-jquery-mobile-keynote/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/tpU00prUkjo/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQCon &#8217;11: SF Bay Area &#8211; jQuery Keynote</title>
+		<link>http://podcast.jquery.com/2011/04/22/episode-41-jquery-keynote/</link>
+		<comments>http://podcast.jquery.com/2011/04/22/episode-41-jquery-keynote/#comments</comments>
+		<pubDate>Fri, 22 Apr 2011 05:59:41 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=329</guid>
+		<description><![CDATA[We&#8217;re back! From the recent jQuery Conference in the San Francisco Bay Area on April 16th and 17th we bring you the audio of the jQuery Keynote given by John Resig. Follow along in the slides that are posted below. Next week we&#8217;ll bring you the jQuery Mobile keynote. Links from the show… Slides from [...]]]></description>
+			<content:encoded><![CDATA[<p>We&#8217;re back!  From the recent jQuery Conference in the San Francisco Bay Area on April 16th and 17th we bring you the audio of the jQuery Keynote given by John Resig.  Follow along in the slides that are posted below.  Next week we&#8217;ll bring you the jQuery Mobile keynote.<br />
+<span id="more-329"></span><br />
+<strong>Links from the show…</strong></p>
+<ul>
+<li><a href="http://www.slideshare.net/jeresig/jquery-keynote-spring-2011">Slides from the keynote</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/HM8xFqfxgTU/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2011/04/22/episode-41-jquery-keynote/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/HM8xFqfxgTU/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>Wijmo</title>
+		<link>http://podcast.jquery.com/2010/12/17/episode-40-wijmo/</link>
+		<comments>http://podcast.jquery.com/2010/12/17/episode-40-wijmo/#comments</comments>
+		<pubDate>Fri, 17 Dec 2010 02:29:41 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=320</guid>
+		<description><![CDATA[In this episode we talk with Chris Bannon of ComponentOne who talks to us about the new jQuery UI library called Wijmo. Wijmo is a collection of 29 widgets that build off of and extend jQuery UI. Wijmo just released version 1.0 of the library, take a listen and check them out. We also learn [...]]]></description>
+			<content:encoded><![CDATA[<p>In this episode we talk with Chris Bannon of ComponentOne who talks to us about the new jQuery UI library called Wijmo.  Wijmo is a collection of 29 widgets that build off of and extend jQuery UI.  Wijmo just released version 1.0 of the library, take a listen and check them out. We also learn that Chris is the organizer of the Pittsburgh jQuery Meetup group and we find out more about it.<br />
+<span id="more-320"></span><br />
+<strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://wijmo.com">Wijmo</a></li>
+<li><a href="http://jburgh.com">jQuery Pittsburgh Meetup</a></li>
+<li><a href="http://wijmo.com/wijmo-1-0-has-landed/">Wijmo 1.0 has landed</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/lEMiDo0udAM/jQueryPodcast-040-Wijmo.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2010/12/17/episode-40-wijmo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/lEMiDo0udAM/jQueryPodcast-040-Wijmo.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQuery Mobile</title>
+		<link>http://podcast.jquery.com/2010/11/10/episode-39-jquery-mobile/</link>
+		<comments>http://podcast.jquery.com/2010/11/10/episode-39-jquery-mobile/#comments</comments>
+		<pubDate>Wed, 10 Nov 2010 00:20:05 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=312</guid>
+		<description><![CDATA[We continue our discussion with John Resig this week and talk about the alpha release of jQuery Mobile. We discuss about expectations in this release and the current features. If you want to contribute to the jQuery Mobile project we outline how to do that as well. Finally we talk with Christopher Schmitt about the [...]]]></description>
+			<content:encoded><![CDATA[<p>We continue our discussion with John Resig this week and talk about the alpha release of jQuery Mobile.  We discuss about expectations in this release and the current features.  If you want to contribute to the jQuery Mobile project we outline how to do that as well.  Finally we talk with Christopher Schmitt about the upcoming jQuery Summit online conference coming up on November 16th and 17th.</p>
+<p><span id="more-312"></span><strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://jquerymobile.com">jQuery Mobile</a></li>
+<li><a href="http://jquerysummit.com">jQuery Summit</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~3/aCS15FR_ETA/jQueryPodcast-039-jQueryMobile.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2010/11/10/episode-39-jquery-mobile/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~3/aCS15FR_ETA/jQueryPodcast-039-jQueryMobile.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>jQuery 1.4.3</title>
+		<link>http://podcast.jquery.com/2010/10/29/episode-38-jquery-1-4-3/</link>
+		<comments>http://podcast.jquery.com/2010/10/29/episode-38-jquery-1-4-3/#comments</comments>
+		<pubDate>Fri, 29 Oct 2010 13:56:32 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=301</guid>
+		<description><![CDATA[John Resig joins us this week to talk about the lastest jQuery release, 1.4.3. We go over some of the performance improvements, the CSS method rewrite, new data method additions amongst others. Find out everything you need to know about this release right here. Also find out details about how to get started testing the [...]]]></description>
+			<content:encoded><![CDATA[<p>John Resig joins us this week to talk about the lastest jQuery release, 1.4.3.  We go over some of the performance improvements, the CSS method rewrite, new data method additions amongst others.  Find out everything you need to know about this release right here.  Also find out details about how to get started testing the 1.4.4 RC.<br />
+<span id="more-301"></span><br />
+<strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://blog.jquery.com/2010/10/16/jquery-143-released/">jQuery 1.4.3 Release Notes</a></li>
+<li><a href="http://api.jquery.com/category/version/1.4.3/">jQuery 1.4.3 API Documentation</a></li>
+<li><a href="http://github.com/lrbabe/jquery.rotate.js">jQuery Rotate Plugin</a></li>
+<li><a href="http://code.jquery.com/jquery-1.4.4rc1.js">jQuery 1.4.4 RC 1</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~5/SjZF2dJRI00/jQueryPodcast-038-jQuery143.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2010/10/29/episode-38-jquery-1-4-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~5/SjZF2dJRI00/jQueryPodcast-038-jQuery143.mp3" length="" type="" />
+		</item>
+		<item>
+		<title>Ben Nadel</title>
+		<link>http://podcast.jquery.com/2010/10/22/episode-37-ben-nadel/</link>
+		<comments>http://podcast.jquery.com/2010/10/22/episode-37-ben-nadel/#comments</comments>
+		<pubDate>Fri, 22 Oct 2010 15:37:29 +0000</pubDate>
+		<dc:creator>Ralph Whitbeck</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://podcast.jquery.com/?p=295</guid>
+		<description><![CDATA[Fresh off the jQuery Conference 2010: Boston, we sit down with Ben Nadel and talk about the conference. Ben tells us about what he learned and tells us about the awesome photo he got with the jQuery Community. Ben’s a jQuery spokesperson for the Cold Fusion community and we talk about that as well. Links [...]]]></description>
+			<content:encoded><![CDATA[<p>Fresh off the jQuery Conference 2010: Boston, we sit down with Ben Nadel and talk about the conference.  Ben tells us about what he learned and tells us about the awesome photo he got with the jQuery Community.  Ben’s a jQuery spokesperson for the Cold Fusion community and we talk about that as well.</p>
+<p><span id="more-295"></span><br />
+<strong>Links from the show&#8230;</strong></p>
+<ul>
+<li><a href="http://bennadel.com">Ben Nadel Blog</a></li>
+<li><a href="http://www.bennadel.com/index.cfm?site-photo=425">Photo: Ben and Ralph on his Blog</a></li>
+<li><a href="http://www.bennadel.com/resources/conferences/jqcon_2010/index.cfm">Photo: Ben and the jQuery Community</a></li>
+<li><a href="http://www.bennadel.com/index.cfm?site-photo=171">Photo: Ben and Rey on his Blog</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Publish/subscribe">Pub/Sub &#8211; Publication/Subscribe</a></li>
+<li><a href="http://blog.jquery.com/2010/10/16/jquery-143-released/">jQuery 1.4.3</a></li>
+<li><a href="http://jquerymobile.com/">jQuery Mobile</a></li>
+<li><a href="http://www.youtube.com/watch?v=YAIPCp_BOGU">Rey&#8217;s Dancing</a></li>
+<li><a href="http://wijmo.com/">Wijmo jQuery UI Widgets</a></li>
+</ul>
+<p><em>You can subscribe to the show in </em><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=339835419"><em>iTunes</em></a><em> or via the </em><a href="http://feeds.feedburner.com/jQueryPodcast"><em>raw RSS</em></a><em> feed or you can </em><a href="http://feedproxy.google.com/~r/jQueryPodcast/~3/WrNXvlLBPDQ/jQueryPodcast-037-BenNadel.mp3"><em>download the MP3</em></a><em>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.jquery.com/2010/10/22/episode-37-ben-nadel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://feedproxy.google.com/~r/jQueryPodcast/~3/WrNXvlLBPDQ/jQueryPodcast-037-BenNadel.mp3" length="" type="" />
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.259 seconds. -->
+<!-- File not cached! Super Cache Couldn't write to: wp-content/cache/wp-cache-3b7dcc7fb615a1c4e06d016c4ff5c65b.html -->

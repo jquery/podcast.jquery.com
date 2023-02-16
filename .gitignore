@@ -1,0 +1,7 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Jigsaw
+/build_local/
+/cache/

@@ -1,0 +1,18 @@
+{
+    "require-dev": {
+        "php": ">=7.4.0",
+        "tightenco/jigsaw": "1.6.0"
+    },
+    "scripts": {
+        "build": [
+            "jigsaw build production"
+        ],
+        "serve": [
+            "Composer\\Config::disableProcessTimeout",
+            "jigsaw serve --port=4000"
+        ],
+        "watch": [
+            "watch jigsaw build"
+        ]
+    }
+}
