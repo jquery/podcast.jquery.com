@@ -1,0 +1,32 @@
+name: spider-check
+on:
+  # Once a week on Friday at 00:00
+  schedule:
+    - cron: '0 0 * * 5'
+  # Or manually
+  workflow_dispatch:
+  # Or when developing this workflow
+  push:
+    paths:
+      - .github/workflows/spider-check.yaml
+  pull_request:
+    paths:
+      - .github/workflows/spider-check.yaml
+
+jobs:
+  spider-check:
+    env:
+      # Site address to crawl
+      MY_SITE: https://podcast.jquery.com
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: jquery/hydra-link-checker
+          ref: v2.0.0
+      - name: Run hydra-link-checker
+        run: |
+          # web.archive.org rate limit (also redundant to check)
+          # uk.bookshop.org Forbidden
+          echo '{ "exclude_scheme_prefixes": [ "http://web.archive.org", "https://uk.bookshop.org" ], "graceful_exit": "True" }' > hydra_config.json
+          python3 hydra.py --config hydra_config.json "$MY_SITE"
