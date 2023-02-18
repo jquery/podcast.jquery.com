@@ -1,6 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<atom:link href="http://feeds.feedburner.com/jQueryPodcast" rel="self" type="application/rss+xml" />
+		<atom:link href="http://podcast.jquery.com/feed/jQueryPodcast.xml" rel="self" type="application/rss+xml" />
 		<title>The Official jQuery Podcast</title>
 		<link>http://podcast.jquery.com</link>
 		<language>en-us</language>
@@ -8,9 +8,8 @@
 		<copyright>&#x2117; &amp; &#xA9; 2010 jQuery Foundation</copyright>
 		<itunes:subtitle>Weekly interviews and news with key jQuery community members.</itunes:subtitle>
 		<itunes:author>Ralph Whitbeck</itunes:author>
-		<itunes:summary>A weekly show that aims to interview key members of the jQuery Community and present jQuery news from the past week.  The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team.  </itunes:summary>
-		<description>A weekly show that aims to interview key members of the jQuery Community and present jQuery
-					news from the past week.  The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team.  </description>
+		<itunes:summary>A weekly show that aims to interview key members of the jQuery Community and present jQuery news from the past week.  The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team.</itunes:summary>
+		<description>A weekly show that aims to interview key members of the jQuery Community and present jQuery news from the past week.  The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team.  </description>
 		<itunes:owner>
 			<itunes:name>Ralph Whitbeck</itunes:name>
 			<itunes:email>podcast@jquery.com</itunes:email>
@@ -18,73 +17,73 @@
 		<itunes:image href="http://cdn.jquery.net/podcast/wp-content/uploads/2010/09/jquerypodcast.png" />
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News" />
-				<itunes:category text="Software How-To" />
+			<itunes:category text="Software How-To" />
 		</itunes:category>
 		<item>
-					<title>46 - Q&amp;A Panel from jQCon</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:subtitle>
-					<itunes:summary>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3</guid>
-					<pubDate>Tue, 7 Jun 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>00:58:04</itunes:duration>
-					<itunes:keywords>jquery, jquery ui</itunes:keywords>
+			<title>46 - Q&amp;A Panel from jQCon</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:subtitle>
+			<itunes:summary>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3</guid>
+			<pubDate>Tue, 7 Jun 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>00:58:04</itunes:duration>
+			<itunes:keywords>jquery, jquery ui</itunes:keywords>
 		</item>
 		<item>
-					<title>45 - jQuery UI Keynote</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:subtitle>
-					<itunes:summary>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3</guid>
-					<pubDate>Fri, 20 May 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>00:59:14</itunes:duration>
-					<itunes:keywords>jquery, jquery ui</itunes:keywords>
+			<title>45 - jQuery UI Keynote</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:subtitle>
+			<itunes:summary>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3</guid>
+			<pubDate>Fri, 20 May 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>00:59:14</itunes:duration>
+			<itunes:keywords>jquery, jquery ui</itunes:keywords>
 		</item>
 		<item>
-					<title>44 - jQuery 1.5 - 1.6.1</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:subtitle>
-					<itunes:summary>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3</guid>
-					<pubDate>Fri, 13 May 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>00:55:13</itunes:duration>
-					<itunes:keywords>jquery</itunes:keywords>
+			<title>44 - jQuery 1.5 - 1.6.1</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:subtitle>
+			<itunes:summary>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3</guid>
+			<pubDate>Fri, 13 May 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>00:55:13</itunes:duration>
+			<itunes:keywords>jquery</itunes:keywords>
 		</item>
 		<item>
-					<title>43 - RewardJS</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:subtitle>
-					<itunes:summary>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3</guid>
-					<pubDate>Tue, 10 May 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>00:37:17</itunes:duration>
-					<itunes:keywords>rewardjs, jquery ui</itunes:keywords>
+			<title>43 - RewardJS</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:subtitle>
+			<itunes:summary>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3</guid>
+			<pubDate>Tue, 10 May 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>00:37:17</itunes:duration>
+			<itunes:keywords>rewardjs, jquery ui</itunes:keywords>
 		</item>
 		<item>
-					<title>42 - jQuery Mobile Keynote</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:subtitle>
-					<itunes:summary>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3</guid>
-					<pubDate>Fri, 29 Apr 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>01:09:50</itunes:duration>
-					<itunes:keywords>jquery, jquery mobile, javascript</itunes:keywords>
+			<title>42 - jQuery Mobile Keynote</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:subtitle>
+			<itunes:summary>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3</guid>
+			<pubDate>Fri, 29 Apr 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>01:09:50</itunes:duration>
+			<itunes:keywords>jquery, jquery mobile, javascript</itunes:keywords>
 		</item>
 		<item>
-					<title>41 - jQuery Keynote</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area</itunes:subtitle>
-					<itunes:summary>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area. Follow along with John's slides at http://www.slideshare.net/jeresig/jquery-keynote-spring-2011</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-041-jQCon1SFjQueryKeynote.mp3</guid>
-					<pubDate>Fri, 22 Apr 2011 08:00:00 -0500</pubDate>
-					<itunes:duration>00:38:53</itunes:duration>
-					<itunes:keywords>jquery, javascript</itunes:keywords>
+			<title>41 - jQuery Keynote</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area</itunes:subtitle>
+			<itunes:summary>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area. Follow along with John's slides at http://www.slideshare.net/jeresig/jquery-keynote-spring-2011</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-041-jQCon1SFjQueryKeynote.mp3</guid>
+			<pubDate>Fri, 22 Apr 2011 08:00:00 -0500</pubDate>
+			<itunes:duration>00:38:53</itunes:duration>
+			<itunes:keywords>jquery, javascript</itunes:keywords>
 				</item>
 		<item>
 			<title>40 - Wijmo</title>
@@ -273,17 +272,17 @@
 				<itunes:duration>00:24:22</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
 		</item>
-			<item>
-					<title>23 - Nicholas Zakas</title>
-					<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
-					<itunes:subtitle>Nicholas Zakas is a front-end engineer at Yahoo and author of the new book High Performance JavaScript</itunes:subtitle>
-					<itunes:summary>This week we sat down with Nicholas Zakas to talk about High Performance JavaScript.</itunes:summary>
-					<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-023-NicholasZakas.mp3" length="17526916" type="audio/mpeg" />
-					<guid>http://content.jquery.com/podcast/jQueryPodcast-023-X-NicholasZakas.mp3</guid>
-					<pubDate>Fri, 14 May 2010 08:00:00 -0500</pubDate>
-					<itunes:duration>00:31:51</itunes:duration>
-					<itunes:keywords>jquery, javascript</itunes:keywords>
-			</item>
+		<item>
+			<title>23 - Nicholas Zakas</title>
+			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
+			<itunes:subtitle>Nicholas Zakas is a front-end engineer at Yahoo and author of the new book High Performance JavaScript</itunes:subtitle>
+			<itunes:summary>This week we sat down with Nicholas Zakas to talk about High Performance JavaScript.</itunes:summary>
+			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-023-NicholasZakas.mp3" length="17526916" type="audio/mpeg" />
+			<guid>http://content.jquery.com/podcast/jQueryPodcast-023-X-NicholasZakas.mp3</guid>
+			<pubDate>Fri, 14 May 2010 08:00:00 -0500</pubDate>
+			<itunes:duration>00:31:51</itunes:duration>
+			<itunes:keywords>jquery, javascript</itunes:keywords>
+		</item>
 		<item>
 				<title>22 - James Senior</title>
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
@@ -420,7 +419,7 @@
 			<title>10 - appendTo</title>
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>appendTo's Mike Hostetler &amp; Jonathan Sharp talk about the new jQuery company</itunes:subtitle>
-			<itunes:summary>We took the opportunity to sit down with Mike Hostetler and Jonathon Sharp to discuss appendTo.  The irst jQuery company that provides support, training and consultation at the Enterprise level.</itunes:summary>
+			<itunes:summary>We took the opportunity to sit down with Mike Hostetler and Jonathon Sharp to discuss appendTo.  The first jQuery company that provides support, training and consultation at the Enterprise level.</itunes:summary>
 			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3" length="36958889" type="audio/mpeg" />
 			<guid>http://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3</guid>
 			<pubDate>Fri, 5 Feb 2010 08:00:00 -0500</pubDate>
@@ -528,4 +527,3 @@
 		</item>
 	</channel>
 </rss>
-
