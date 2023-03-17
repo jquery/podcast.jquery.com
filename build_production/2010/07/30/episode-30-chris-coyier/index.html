@@ -42,6 +42,55 @@
 <p>Host: Ralph Whitbeck &amp; Rey Bango.</p>
 
 <p><audio src="http://content.jquery.com/podcast/jQueryPodcast-030-ChrisCoyier.mp3" controls=""></audio></p>
+
+<h2>Interview</h2>
+
+<p>In our 30th episode, we talk with <a href="http://chriscoyier.net/">Chris Coyier</a> of CSS-Tricks. Chris also works for Wufoo, an online form builder service.  Chris talks about his inspiration for writing for CSS-Tricks and we look at his jQuery snippets, freebies and screen casts.  We learn what Wufoo is and talk about the new API for Wufoo.  Chris shows us the new Wufoo jQuery API Wrapper and we talk about  the choice of putting the plugin on the jQuery namespace verses making it its own global object.  Finally, we talk about how designers and developers responsibilities are becoming more blurred as it evolves and changes.</p>
+
+<h2>Links from this show</h2>
+
+<ul>
+<li><a href="http://css-tricks.com/">CSS-Tricks</a></li>
+<li><a href="http://css-tricks.com/anythingslider-jquery-plugin/">Anything Slider</a></li>
+<li><a href="http://css-tricks.com/snippets/jquery/">jQuery Snippets</a></li>
+<li><a href="http://css-tricks.com/snippets/jquery/jquery-tweetify-text/">jQuery Tweetify Text Snippet from CSS-Tricks</a></li>
+<li><a href="http://wufoo.com/">Wufoo</a> – online form builder</li>
+<li>Wufoo jQuery API Wrapper (<a href="https://web.archive.org/web/20100725013018/http://github.com/wufoo/Wufoo-API-Wrappers">archived</a>)</li>
+<li><a href="http://digwp.com/">Dig into WordPress</a></li>
+</ul>
+
+<h2>Plugin of the week</h2>
+
+<p>jQuery.Validity (<a href="http://web.archive.org/web/20110810095227/http://validity.thatscaptaintoyou.com/">archived</a>)</p>
+
+<p>Very light weight Validation plugin for simple forms with simple validation rules. Here’s an example of the jQuery needed to make a couple of fields required and match a specific format.</p>
+
+<pre><code class="language-js">$("form").validity(function() {
+    $("#vehicles")                      // The first input:
+        .require()                          // Required:
+        .match("number")                    // In the format of a number:
+        .range(4, 12);                      // Between 4 and 12 (inclusively):
+
+    $("#dob")                           // The second input:
+        .require()                          // Required:
+        .match("date")                      // In the format of a date:
+        .lessThanOrEqualTo(new Date());     // In the past (less than or equal to today):
+});
+</code></pre>
+
+<p>We still feel that <a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/">Jörn Zafferer’s Validation plugin</a> is the best as it will provide the most robust and customizable solution to your needs but felt that this light weight plugin would work well in smaller forms.</p>
+
+<h2>Tutorial of the week</h2>
+
+<p>Enterprise jQuery (<a href="http://web.archive.org/web/20110219104449/http://enterprisejquery.com/">archived</a>)</p>
+
+<p>A site, from <a href="http://appendto.com/">appendTo</a>, geared to help corporations that are just now adapting jQuery. It helps them learn how to use jQuery with best practices in mind so that their code is easy to maintain in a team environment.  We mention a few articles from the site:</p>
+
+<ul>
+<li><a href="http://web.archive.org/web/20101122212302/http://enterprisejquery.com/2010/07/mock-your-ajax-requests-with-mockjax-for-rapid-development/">Mock Your Ajax Requests with Mockjax for Rapid Development</a></li>
+<li><a href="http://web.archive.org/web/20140211221521/http://appendto.com/2010/07/configuring-ui-widgets-and-interactions-with-live/">Configuring UI widgets and interactions with .live() and .delegate()</a></li>
+<li><a href="http://web.archive.org/web/20140209054037/http://appendto.com/category/multipart-series/">Multipart Series articles</a></li>
+</ul>
 <div class="post-nav">
   <div>
 	  &#8592; Previous<br><a href="/2010/07/09/episode-29-rey-bomb-3/">29 - Rey Bomb 3</a>

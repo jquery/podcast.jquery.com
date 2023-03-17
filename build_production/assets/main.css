@@ -83,9 +83,9 @@ main {
   background: #fff;
   border-top: 1px solid #333;
 }
-
 main article {
   border-top: 5px solid #efefef;
+  overflow-wrap: break-word;
 }
 
 h1 {
@@ -96,6 +96,13 @@ h1 {
 .post-meta {
   font-size: 12px;
   color: #999;
+}
+
+pre {
+  background: #efefef;
+  padding: 1em;
+  overflow-x: auto;
+  overflow-wrap: break-word;
 }
 
 .post-nav {
