@@ -10,3 +10,7 @@ Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI 
 Host: Ralph Whitbeck &amp; Rey Bango.
 
 <audio src="http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" controls=""></audio>
+
+## Description
+
+This week we bring you the jQuery UI Keynote given by Richard Worth at the jQuery Conference 2011: San Francisco Bay Area. Rich presents the state of jQuery UI as well as provide a preview into the new Grid control project.

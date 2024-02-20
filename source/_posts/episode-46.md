@@ -10,3 +10,7 @@ John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl
 Host: Ralph Whitbeck &amp; Rey Bango.
 
 <audio src="http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" controls=""></audio>
+
+## Description
+
+Listen in on the jQuery Conference 2011: San Francisco Bay Area Conference Panel Discussion that was held at the end of the conference. Ralph Whitbeck moderates a panel of team members, John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl as they answer questions from the audience.

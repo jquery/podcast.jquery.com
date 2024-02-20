@@ -12,6 +12,7 @@
             "jigsaw serve --port=4000"
         ],
         "watch": [
+            "Composer\\Config::disableProcessTimeout",
             "watch jigsaw build"
         ]
     }
