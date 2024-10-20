@@ -24,8 +24,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:subtitle>
 			<itunes:summary>John Resig, Richard Worth, Adam Sontag, Dan Heberden, Leah Silber and Scott Jehl answers questions from the audience at jQuery Conference 2011 in San Francisco.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3</guid>
 			<pubDate>Tue, 7 Jun 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>00:58:04</itunes:duration>
 			<itunes:keywords>jquery, jquery ui</itunes:keywords>
@@ -35,8 +35,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:subtitle>
 			<itunes:summary>Richard D. Worth presents the state of jQuery UI and a preview of the jQuery UI Grid project from the jQuery Conference 2011: San Francisco Bay Area.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3</guid>
 			<pubDate>Fri, 20 May 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>00:59:14</itunes:duration>
 			<itunes:keywords>jquery, jquery ui</itunes:keywords>
@@ -46,8 +46,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:subtitle>
 			<itunes:summary>We talk with jQuery Core Team Member Dave Methvin about the last few releases.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3</guid>
 			<pubDate>Fri, 13 May 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>00:55:13</itunes:duration>
 			<itunes:keywords>jquery</itunes:keywords>
@@ -57,8 +57,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:subtitle>
 			<itunes:summary>Talk with Richard D. Worth about his personal project RewardJS to reward developers to fix bugs.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3</guid>
 			<pubDate>Tue, 10 May 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>00:37:17</itunes:duration>
 			<itunes:keywords>rewardjs, jquery ui</itunes:keywords>
@@ -68,8 +68,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:subtitle>
 			<itunes:summary>Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides at http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3</guid>
 			<pubDate>Fri, 29 Apr 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>01:09:50</itunes:duration>
 			<itunes:keywords>jquery, jquery mobile, javascript</itunes:keywords>
@@ -79,8 +79,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area</itunes:subtitle>
 			<itunes:summary>John Resig delivers the jQuery Keynote from the jQuery Conference 2011: SF Bay Area. Follow along with John's slides at http://www.slideshare.net/jeresig/jquery-keynote-spring-2011</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-041-jQCon1SFjQueryKeynote.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-041-jQCon1SFjQueryKeynote.mp3</guid>
 			<pubDate>Fri, 22 Apr 2011 08:00:00 -0500</pubDate>
 			<itunes:duration>00:38:53</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -90,8 +90,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>Chris Bannon from ComponentOne talks about Wijmo a new UI Library based on jQuery UI.</itunes:subtitle>
 			<itunes:summary>Chris Bannon from ComponentOne talks about Wijmo a new UI Library based on jQuery UI.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3" length="16034175" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3" length="16034175" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3</guid>
 			<pubDate>Thu, 16 Dec 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:33:15</itunes:duration>
 			<itunes:keywords>jquery, javascript, wijmo</itunes:keywords>
@@ -101,8 +101,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>John Resig joins us to talk about jQuery Mobile.</itunes:subtitle>
 				<itunes:summary>John Resig joins us to talk about jQuery Mobile.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3" length="12344425" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3" length="12344425" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3</guid>
 				<pubDate>Tue, 9 Nov 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:25:33</itunes:duration>
 				<itunes:keywords>jquery, javascript, mobile</itunes:keywords>
@@ -112,8 +112,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>John Resig joins us to talk about the latest jQuery release, 1.4.3.</itunes:subtitle>
 				<itunes:summary>John Resig joins us to talk about the latest jQuery release, 1.4.3.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" length="14397440" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" length="14397440" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3</guid>
 				<pubDate>Fri, 29 Oct 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:29:50</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -123,8 +123,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>We sit down with Ben Nadel and discuss Cold Fusion and the jQuery Conference this past weekend.</itunes:subtitle>
 				<itunes:summary>Fresh off the jQuery Conference 2010: Boston, we sit down with Ben Nadel and talk about the conference.  Ben tells us about what he learned and tells us about the awesome photo he got with the jQuery Community.  Ben’s a jQuery spokesperson for the Cold Fusion community and we talk about that as well.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3" length="17577483" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3" length="17577483" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3</guid>
 				<pubDate>Fri, 22 Oct 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:36:28</itunes:duration>
 				<itunes:keywords>jquery, javascript, jqcon</itunes:keywords>
@@ -134,8 +134,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>We sit down with Boaz Sender and Ben Alman who both work for Bocoup in Boston, MA.  We discuss Bocoup from their clients to their open source contributions.</itunes:subtitle>
 				<itunes:summary>We sit down with Boaz Sender and Ben Alman who both work for Bocoup in Boston, MA.  We discuss Bocoup from their clients to their open source contributions.  Bocoup is providing the pre-conference training in Boston and we talk about the training class and the advance classes that are also offered.  Bocoup Loft also hosts many events including jQuery Meetups in Boston.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-036-Bocoup.mp3" length="20560458" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-036-Bocoup.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-036-Bocoup.mp3" length="20560458" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-036-Bocoup.mp3</guid>
 				<pubDate>Wed, 6 Oct 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:42:40</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -145,8 +145,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Scott González, Lead Developer for jQuery UI joins us to talk about the latest release of jQuery UI and the road ahead.</itunes:subtitle>
 				<itunes:summary>Scott González, Lead Developer for jQuery UI joins us to talk about the latest release of jQuery UI and the road ahead.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-035-jQueryUI185.mp3" length="23197153" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-035-jQueryUI185.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-035-jQueryUI185.mp3" length="23197153" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-035-jQueryUI185.mp3</guid>
 				<pubDate>Thu, 30 Sep 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:48:10</itunes:duration>
 				<itunes:keywords>jquery, javascript, jQuery ui</itunes:keywords>
@@ -156,8 +156,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Karl Swedberg joins us again this week to chat about Learning jQuery and the upcoming jQuery conference.</itunes:subtitle>
 				<itunes:summary>Karl Swedberg joins us again this week to chat about Learning jQuery and the upcoming jQuery conference.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-034-KarlSwedbergpt2.mp3" length="15985484" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-034-KarlSwedbergpt2.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-034-KarlSwedbergpt2.mp3" length="15985484" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-034-KarlSwedbergpt2.mp3</guid>
 				<pubDate>Fri, 17 Sep 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:33:09</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -167,8 +167,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Karl Swedberg joins us this week to chat about the community needs of jQuery and what we know now nine months after api.jquery.com has launched.</itunes:subtitle>
 				<itunes:summary>Karl Swedberg joins us this week to chat about the community needs of jQuery and what we know now nine months after api.jquery.com has launched.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-033-KarlSwedbergpt1.mp3" length="17517715" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-033-KarlSwedbergpt1.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-033-KarlSwedbergpt1.mp3" length="17517715" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-033-KarlSwedbergpt1.mp3</guid>
 				<pubDate>Fri, 10 Sep 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:36:20</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -178,8 +178,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Dave Ward co host of the video series on Tekpub called Master jQuery</itunes:subtitle>
 				<itunes:summary>Talk with Dave Ward about the Master jQuery series on Tekpub and caching on Google CDN, etc.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-032-DaveWard.mp3" length="20597656" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-032-DaveWard.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-032-DaveWard.mp3" length="20597656" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-032-DaveWard.mp3</guid>
 				<pubDate>Fri, 27 Aug 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:42:45</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -189,8 +189,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Filament Group, discussing Progressive Enhancement, jQuery UI and Mobile.</itunes:subtitle>
 				<itunes:summary>We talk to the folks at Filament Group about Progressive Enhancement, jQuery UI and Mobile..</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-031-FilamentGroup.mp3" length="21193248" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-031-FilamentGroup.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-031-FilamentGroup.mp3" length="21193248" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-031-FilamentGroup.mp3</guid>
 				<pubDate>Fri, 13 Aug 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:44:00</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -200,8 +200,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Chris Coyier of css-tricks.com and Wufoo.</itunes:subtitle>
 				<itunes:summary>We talk to Chris Coyier about jQuery, css-tricks.com and Wufoo .</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-030-ChrisCoyier.mp3" length="27720517" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-030-ChrisCoyier.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-030-ChrisCoyier.mp3" length="27720517" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-030-ChrisCoyier.mp3</guid>
 				<pubDate>Fri, 30 Jul 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:57:35</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -211,8 +211,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>The guys get together and discuss Script Junkie and Mobile jQuery.</itunes:subtitle>
 				<itunes:summary>We talk about a new front-end focused tutorial site, Script Junkies and we talk about the mobile strategy of jQuery.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-029-ReyBomb3.mp3" length="22034182" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-029-ReyBomb3.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-029-ReyBomb3.mp3" length="22034182" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-029-ReyBomb3.mp3</guid>
 				<pubDate>Fri, 9 Jul 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:45:45</itunes:duration>
 				<itunes:keywords>jquery, javascript, mobile</itunes:keywords>
@@ -222,8 +222,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Remy Sharp, jQuery Developer Relations Team member and jsbin.com creator</itunes:subtitle>
 				<itunes:summary>This week we sat down and talked with Remy Sharp and discussed jQuery for Designers, Full Frontal JavaScript Conference, Snap Bird and have a little fun.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-028-RemySharp3JfD.mp3" length="18372271" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-028-RemySharp3JfD.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-028-RemySharp3JfD.mp3" length="18372271" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-028-RemySharp3JfD.mp3</guid>
 				<pubDate>Fri, 25 Jun 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:38:07</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -233,8 +233,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Remy Sharp, jQuery Developer Relations Team member and jsbin.com creator</itunes:subtitle>
 				<itunes:summary>This week we sat down and talked with Remy Sharp and discussed HTML5.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-027-RemySharp2html5.mp3" length="14077493" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-027-RemySharp2html5.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-027-RemySharp2html5.mp3" length="14077493" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-027-RemySharp2html5.mp3</guid>
 				<pubDate>Fri, 18 Jun 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:29:10</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -244,8 +244,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Remy Sharp, jQuery Developer Relations Team member and jsbin.com creator</itunes:subtitle>
 				<itunes:summary>This week we sat down and talked with Remy Sharp and discussed jsbin.com a site to try out and share HTML and JavaScript quickly and easily.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-026-RemySharp1jsbin.mp3" length="14539338" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-026-RemySharp1jsbin.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-026-RemySharp1jsbin.mp3" length="14539338" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-026-RemySharp1jsbin.mp3</guid>
 				<pubDate>Fri, 11 Jun 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:30:08</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -255,8 +255,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>Meeno Van Slooten was a speaker at the Bay Area jQuery Conference 2010 and showed off a cool new UI Testing Framework he developed.</itunes:subtitle>
 				<itunes:summary>This week we sat down with Meeno Van Slooten who was a speaker at the Bay Area jQuery Conference 2010 and showed off a cool new UI Testing Framework he developed.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-025-MeenoVanSlooten.mp3" length="11597741 " type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-025-MeenoVanSlooten.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-025-MeenoVanSlooten.mp3" length="11597741 " type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-025-MeenoVanSlooten.mp3</guid>
 				<pubDate>Fri, 4 Jun 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:24:00</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -266,8 +266,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>The hosts of the yayQuery podcast talk with Rey and Ralph.</itunes:subtitle>
 				<itunes:summary>This week we sat down with the yayQuery hosts and discuss a bunch of topics.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-024-yayQuery.mp3" length="11776418" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-024-yayQuery.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-024-yayQuery.mp3" length="11776418" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-024-yayQuery.mp3</guid>
 				<pubDate>Fri, 28 May 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:24:22</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -277,8 +277,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 			<itunes:subtitle>Nicholas Zakas is a front-end engineer at Yahoo and author of the new book High Performance JavaScript</itunes:subtitle>
 			<itunes:summary>This week we sat down with Nicholas Zakas to talk about High Performance JavaScript.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-023-NicholasZakas.mp3" length="17526916" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-023-X-NicholasZakas.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-023-NicholasZakas.mp3" length="17526916" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-023-X-NicholasZakas.mp3</guid>
 			<pubDate>Fri, 14 May 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:31:51</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -288,8 +288,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Rey Bango</itunes:author>
 				<itunes:subtitle>James Senior is a Web Evengelist and we discuss Microsoft/jQuery and the new plugin proposals.</itunes:subtitle>
 				<itunes:summary>This week we sat down with James Senior a Web Technology evangelist at Microsoft and discussed jQuery/Microsoft.  We also announce Rey Bango as the new co-host of the show.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-022-JamesSenior.mp3" length="17526916" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-022-JamesSenior.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-022-JamesSenior.mp3" length="17526916" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-022-JamesSenior.mp3</guid>
 				<pubDate>Fri, 7 May 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:36:21</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -299,8 +299,8 @@
 				<itunes:author>Ralph Whitbeck</itunes:author>
 				<itunes:subtitle>When Rey Bango comes on who knows what we will get.  Rey Bomb episode number 2.</itunes:subtitle>
 				<itunes:summary>This week we discuss JSConf, Rey's new position at Microsoft, Microsoft/jQuery relationship and jQuery Conference.  This is also the last show for Elijah and he is stepping down to spend more time with family.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-021-ReyBomb2.mp3" length="17244972" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-021-ReyBomb2.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-021-ReyBomb2.mp3" length="17244972" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-021-ReyBomb2.mp3</guid>
 				<pubDate>Fri, 23 Apr 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:35:46</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -310,8 +310,8 @@
 				<itunes:author>Ralph Whitbeck</itunes:author>
 				<itunes:subtitle>Various jQuery and JavaScript related interviews from Barcamp Rochester</itunes:subtitle>
 				<itunes:summary>This week we provide you with three short interviews recorded at Barcamp Rochester earlier this month.  John Resig gives us an update on the state of jQuery.  Benjamin DeLillo tells us about a new WebGL library called WebGLU and Mich Cook of Yahoo introduces us to YUI3.  Show notes: http://blog.jquery.com/2010/04/16/the-official-jquery-podcast-episode-20-barcamp-rochester</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-020-BarcampRochester.mp3" length="14180706 " type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-020-BarcampRochester.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-020-BarcampRochester.mp3" length="14180706 " type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-020-BarcampRochester.mp3</guid>
 				<pubDate>Fri, 16 Apr 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:29:22</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -321,8 +321,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 				<itunes:subtitle>The Authors of jQuery in Action</itunes:subtitle>
 				<itunes:summary>This week we talked with Yehuda Katz and Bear Bibeault about the upcoming second edition of the popular jQuery in Action book from Manning. Show notes: http://blog.jquery.com/2010/04/09/the-official-jquery-podcast-episode-19-jquery-in-action-2nd-ed</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-019-jQueryInAction.mp3" length="15073913" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-019-jQueryInAction.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-019-jQueryInAction.mp3" length="15073913" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-019-jQueryInAction.mp3</guid>
 				<pubDate>Fri, 9 Apr 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:31:15</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -332,8 +332,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 				<itunes:subtitle>Jeffery Way, Editor of the site Nettuts</itunes:subtitle>
 				<itunes:summary>This week we talked with Jeffrey Way. He is the editor of Nettuts+, and the Site Manager of ThemeForest and CodeCanyon. Jeffrey gives an overview of the Nettuts+ website and explains why their tutorials focus so much on jQuery and gives some examples of recent jQuery related articles. Show notes: http://blog.jquery.com/2010/04/02/the-official-jquery-podcast-episode-18-jeffery-way-nettuts</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-018-JefferyWay.mp3" length="19157375" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-018-JefferyWay.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-018-JefferyWay.mp3" length="19157375" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-018-JefferyWay.mp3</guid>
 				<pubDate>Fri, 2 Apr 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:39:45</itunes:duration>
 				<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -343,8 +343,8 @@
 				<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 				<itunes:subtitle>jQuery UI team and the 1.8 release</itunes:subtitle>
 				<itunes:summary>We talked last week with the jQuery UI team right before the launch of jQuery UI 1.8, Richard D. Worth, Scott Gonzalez, Mike Hostetler and Doug Neiner filled in for Elijah.  We discuss the final release of jQuery UI 1.8.</itunes:summary>
-				<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-017-jQueryUI18.mp3" length="18280287" type="audio/mpeg" />
-				<guid>http://content.jquery.com/podcast/jQueryPodcast-017-jQueryUI18.mp3</guid>
+				<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-017-jQueryUI18.mp3" length="18280287" type="audio/mpeg" />
+				<guid>https://content.jquery.com/podcast/jQueryPodcast-017-jQueryUI18.mp3</guid>
 				<pubDate>Fri, 26 Mar 2010 08:00:00 -0500</pubDate>
 				<itunes:duration>00:37:55</itunes:duration>
 				<itunes:keywords>jquery, jqueryui, javascript</itunes:keywords>
@@ -354,8 +354,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>jQuery Meetups, ideas for your events</itunes:subtitle>
 			<itunes:summary>We talk with Cody Lindley, Jonathan Sharp and Boaz Sender about meetups.jquery.com and try to help come up with ideas and process for hosting jQuery Meetups in your area.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-016-jQueryMeetups.mp3" length="11662948" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-016-jQueryMeetups.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-016-jQueryMeetups.mp3" length="11662948" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-016-jQueryMeetups.mp3</guid>
 			<pubDate>Fri, 19 Mar 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:24:08</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -365,8 +365,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>John Resig joins in to discuss the last two point releases</itunes:subtitle>
 			<itunes:summary>We talk with John Resig about jQuery 1.4.1 and jQuery 1.4.2 as well as what's ahead in jQuery 1.4.3 and beyond.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-015-JohnResig.mp3" length="21565476" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-015-JohnResig.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-015-JohnResig.mp3" length="21565476" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-015-JohnResig.mp3</guid>
 			<pubDate>Fri, 12 Mar 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:44:46</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -376,8 +376,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Phil Haack, Senior Program Manager for ASP.NET MVC at Microsoft</itunes:subtitle>
 			<itunes:summary>We talk with Phil Haack of Microsoft to talk about how jQuery is now included in Visual Studio and ASP.NET MVC and how easy it is to use.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-014-PhilHaack.mp3" length="28246112" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-014-PhilHaack.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-014-PhilHaack.mp3" length="28246112" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-014-PhilHaack.mp3</guid>
 			<pubDate>Fri, 5 Mar 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:58:41</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -387,8 +387,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>David Walsh, Mootools developer talks about how Mootools and jQuery compare.</itunes:subtitle>
 			<itunes:summary>We talk with Mootools developer David Walsh and discuss the relationship between our teams and compare the libraries.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-013-DavidWalsh.mp3" length="30735680" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-013-DavidWalsh.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-013-DavidWalsh.mp3" length="30735680" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-013-DavidWalsh.mp3</guid>
 			<pubDate>Fri, 26 Feb 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>01:03:52</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -398,8 +398,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Rey Bango, Cody Lindley, Karl Swedberg and Doug Neiner Talk jQuery</itunes:subtitle>
 			<itunes:summary>We talk about jQuery at a casual level and try to discuss some topics we normally wouldn't during an interview episode.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-012-ReyBomb1.mp3" length="48838960" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-012-ReyBomb1.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-012-ReyBomb1.mp3" length="48838960" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-012-ReyBomb1.mp3</guid>
 			<pubDate>Fri, 19 Feb 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:50:48</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -409,8 +409,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>We talk with Yehuda Katz about Rails and jQuery.</itunes:subtitle>
 			<itunes:summary>Our last show while in Washington DC we sat down and talked with Yehuda Katz about Rails 3 and jQuery.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-011-YehudaKatz.mp3" length="28399510" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-011-YehudaKatz.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-011-YehudaKatz.mp3" length="28399510" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-011-YehudaKatz.mp3</guid>
 			<pubDate>Fri, 12 Feb 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:29:30</itunes:duration>
 			<itunes:keywords>jquery, javascript, jquery14, rails</itunes:keywords>
@@ -420,8 +420,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>appendTo's Mike Hostetler &amp; Jonathan Sharp talk about the new jQuery company</itunes:subtitle>
 			<itunes:summary>We took the opportunity to sit down with Mike Hostetler and Jonathon Sharp to discuss appendTo.  The first jQuery company that provides support, training and consultation at the Enterprise level.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3" length="36958889" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3" length="36958889" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-010-appendTo.mp3</guid>
 			<pubDate>Fri, 5 Feb 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:38:25</itunes:duration>
 			<itunes:keywords>jquery, javascript, jquery14</itunes:keywords>
@@ -431,8 +431,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>David Artz, Director of Website Optimization at Aol.</itunes:subtitle>
 			<itunes:summary>We took the opportunity to sit down with David Artz and discuss how jQuery is used at Aol.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-009-DavidArtzAol.mp3" length="22683494" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-009-DavidArtzAol.mp3.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-009-DavidArtzAol.mp3" length="22683494" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-009-DavidArtzAol.mp3.mp3</guid>
 			<pubDate>Fri, 29 Jan 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:23:33</itunes:duration>
 			<itunes:keywords>jquery, javascript, jquery14</itunes:keywords>
@@ -442,8 +442,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Karl Swedberg and Paul Irish talk about the new api.jquery.com site.</itunes:subtitle>
 			<itunes:summary>The jQuery Documentation got a major facelift and was released during the 14 Days of jQuery.  Find out what's new in the site.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3" length="12632628" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3" length="12632628" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3</guid>
 			<pubDate>Fri, 22 Jan 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:26:09</itunes:duration>
 			<itunes:keywords>jquery, javascript, jquery14</itunes:keywords>
@@ -453,8 +453,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>jQuery 1.4 is now released!</itunes:subtitle>
 			<itunes:summary>We are in Washington DC and we are all sitting face-to-face with John Resig as we talk about the jQuery 1.4 Release.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-007-jQuery14.mp3" length="27839436" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-007-jQuery14.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-007-jQuery14.mp3" length="27839436" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-007-jQuery14.mp3</guid>
 			<pubDate>Fri, 15 Jan 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>00:28:55</itunes:duration>
 			<itunes:keywords>jquery, javascript, jquery14</itunes:keywords>
@@ -464,8 +464,8 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Ben Alman, jQuery Plugin Developer and Core Contributor</itunes:subtitle>
 			<itunes:summary>We talk with Ben Alman about writing plugins and contributing to jQuery.  Elijah joins us after getting braces on, much hilarity ensues.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-006-BenAlman.mp3" length="38173477" type="audio/mpeg" />
-			<guid>http://content.jquery.com/podcast/jQueryPodcast-006-BenAlman.mp3</guid>
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-006-BenAlman.mp3" length="38173477" type="audio/mpeg" />
+			<guid>https://content.jquery.com/podcast/jQueryPodcast-006-BenAlman.mp3</guid>
 			<pubDate>Fri, 08 Jan 2010 08:00:00 -0500</pubDate>
 			<itunes:duration>01:19:22</itunes:duration>
 			<itunes:keywords>jquery, javascript</itunes:keywords>
@@ -475,7 +475,7 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Rey Bango, Head jQuery Evangelist</itunes:subtitle>
 			<itunes:summary>Rey Bango is the Head jQuery Evangelist, he talks with us about evangelism and what to expect in 2010.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-005-ReyBango.mp3" length="24581443" type="audio/mpeg" />
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-005-ReyBango.mp3" length="24581443" type="audio/mpeg" />
 			<guid>http://static.jquery.com/podcast/jQueryPodcast-005-ReyBango.mp3</guid>
 			<pubDate>Fri, 18 Dec 2009 08:00:00 -0500</pubDate>
 			<itunes:duration>51:03</itunes:duration>
@@ -486,7 +486,7 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Cody Lindley, jQuery Enlightenment Author and jQuery Evangelist</itunes:subtitle>
 			<itunes:summary>Cody Lindley is the author of the e-book jQuery Enlightenment and the coauthor of jQuery Cookbook. Learn all about the recently released jQuery books.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-004-CodyLindley.mp3" length="29461536" type="audio/mpeg" />
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-004-CodyLindley.mp3" length="29461536" type="audio/mpeg" />
 			<guid>http://static.jquery.com/podcast/jQueryPodcast-004-CodyLindley.mp3</guid>
 			<pubDate>Fri, 11 Dec 2009 08:00:00 -0500</pubDate>
 			<itunes:duration>01:01:13</itunes:duration>
@@ -497,7 +497,7 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Paul Irish, yayQuery cohost and front-end developer</itunes:subtitle>
 			<itunes:summary>Paul Irish is a front-end developer and co-host of the other jQuery podcast called yayQuery.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-003-PaulIrish.mp3" length="34539110" type="audio/mpeg" />
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-003-PaulIrish.mp3" length="34539110" type="audio/mpeg" />
 			<guid>http://static.jquery.com/podcast/jQueryPodcast-003-PaulIrish.mp3</guid>
 			<pubDate>Fri, 4 Dec 2009 08:00:00 -0500</pubDate>
 			<itunes:duration>01:11:48</itunes:duration>
@@ -508,7 +508,7 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>jQuery UI Release Manager, Richard D. Worth</itunes:subtitle>
 			<itunes:summary>Richard D. Worth, Release Manager for the jQuery UI project joins us to explain jQuery UI and how you can contribute.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-002-RichardDWorth.mp3" length="43090160" type="audio/mpeg" />
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-002-RichardDWorth.mp3" length="43090160" type="audio/mpeg" />
 			<guid>http://static.jquery.com/podcast/jQueryPodcast-002-RichardDWorth.mp3</guid>
 			<pubDate>Fri, 20 Nov 2009 08:00:00 -0500</pubDate>
 			<itunes:duration>01:29:37</itunes:duration>
@@ -519,7 +519,7 @@
 			<itunes:author>Ralph Whitbeck &amp; Elijah Manor</itunes:author>
 			<itunes:subtitle>Our first episode with guest John Resig</itunes:subtitle>
 			<itunes:summary>John Resig joins us on our first podcast to talk jQuery, the Software Freedom Conservancy, the upcoming 1.4 release and why Google Groups is dead.</itunes:summary>
-			<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-001-JohnResig.mp3" length="36978091" type="audio/mpeg" />
+			<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-001-JohnResig.mp3" length="36978091" type="audio/mpeg" />
 			<guid>http://static.jquery.com/podcast/jQueryPodcast-001-JohnResig.mp3</guid>
 			<pubDate>Fri, 13 Nov 2009 08:00:00 -0500</pubDate>
 			<itunes:duration>01:16:53</itunes:duration>

@@ -3,13 +3,13 @@ title: "38 - jQuery 1.4.3"
 date: "2010-10-29T08:00:00-05:00"
 slug: "episode-38-jquery-1-4-3"
 path: "/2010/10/29/{slug}/"
-enclosure: http://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3
+enclosure: https://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3
 ---
 John Resig joins us to talk about the latest jQuery release, 1.4.3.
 
 Host: Ralph Whitbeck &amp; Rey Bango.
 
-<audio src="http://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" controls=""></audio>
+<audio src="https://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" controls=""></audio>
 
 John Resig joins us this week to talk about the lastest jQuery release, 1.4.3. We go over some of the performance improvements, the CSS method rewrite, new data method additions amongst others. Find out everything you need to know about this release right here. Also find out details about how to get started testing the 1.4.4 RC.
 

@@ -3,13 +3,13 @@ title: "8 - api.jquery.com"
 date: "2010-01-22T08:00:00-05:00"
 slug: "episode-8-api-jquery-com"
 path: "/2010/01/22/{slug}/"
-enclosure: http://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3
+enclosure: https://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3
 ---
 The jQuery Documentation got a major facelift and was released during the 14 Days of jQuery. In this episode we are at the Aol headquarters in Washington DC filming video and releasing jQuery 1.4 for the 14 Days of jQuery. In this episode we talk with Karl Swedberg and Paul Irish about the new [api.jquery.com](http://api.jquery.com) documentation site.
 
 Host: Ralph Whitbeck &amp; Elijah Manor.
 
-<audio src="http://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3" controls=""></audio>
+<audio src="https://content.jquery.com/podcast/jQueryPodcast-008-api.jquery.com.mp3" controls=""></audio>
 
 ## Interview
 

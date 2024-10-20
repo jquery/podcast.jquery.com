@@ -31,7 +31,7 @@
 <span id="more-358"></span><br />
 </p>
 ]]></content:encoded>
-	<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
+	<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-046-jQConPanel.mp3" length="27949980" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQCon &#8217;11: SF Bay Area &#8211; jQuery UI Keynote</title>
@@ -44,7 +44,7 @@
 		<description><![CDATA[This week we bring you the jQuery UI Keynote given by Richard Worth at the jQuery Conference 2011: San Francisco Bay Area. Rich presents the state of jQuery UI as well as provide a preview into the new Grid control project. You can subscribe to the show in iTunes or via the raw RSS feed [...]]]></description>
 		<content:encoded><![CDATA[<p>This week we bring you the jQuery UI Keynote given by Richard Worth at the jQuery Conference 2011: San Francisco Bay Area.  Rich presents the state of jQuery UI as well as provide a preview into the new Grid control project. </p>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-045-jQueryUIKeynote.mp3" length="28509413" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQuery 1.5 &#8211; 1.6.1</title>
@@ -66,7 +66,7 @@
 <li><a href="https://developer.mozilla.org/en/DOM/window.mozRequestAnimationFrame">window.mozRequestAnimationFrame</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-044-jQuery15161.mp3" length="26581160" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>RewardJS</title>
@@ -85,7 +85,7 @@
 <li><a href="http://jQueryUI.com">jQuery UI</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-043-RewardJS.mp3" length="17975180" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQCon &#8217;11: SF Bay Area &#8211; jQuery Mobile Keynote</title>
@@ -103,7 +103,7 @@
 <li><a href="http://filamentgroup.com/lab/slides_from_our_jquery_conference_presentation_on_jquery_mobile/">Slides</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" length="33597455" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQCon &#8217;11: SF Bay Area  &#8211; jQuery Keynote</title>
@@ -121,7 +121,7 @@
 <li><a href="http://www.slideshare.net/jeresig/jquery-keynote-spring-2011">Slides from the keynote</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-041-jQCon11SFjQueryKeynote.mp3" length="18742768" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>Wijmo</title>
@@ -141,7 +141,7 @@
 <li><a href="http://wijmo.com/wijmo-1-0-has-landed/">Wijmo 1.0 has landed</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3" length="16034175" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-040-Wijmo.mp3" length="16034175" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQuery Mobile</title>
@@ -159,7 +159,7 @@
 <li><a href="http://jquerysummit.com">jQuery Summit</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3" length="12344425" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-039-jQueryMobile.mp3" length="12344425" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>jQuery 1.4.3</title>
@@ -180,7 +180,7 @@
 <li><a href="http://code.jquery.com/jquery-1.4.4rc1.js">jQuery 1.4.4 RC 1</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" length="14397440" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-038-jQuery143.mp3" length="14397440" type="audio/mpeg" />
 	</item>
 	<item>
 		<title>Ben Nadel</title>
@@ -206,7 +206,7 @@
 <li><a href="http://wijmo.com/">Wijmo jQuery UI Widgets</a></li>
 </ul>
 ]]></content:encoded>
-		<enclosure url="http://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3" length="17577483" type="audio/mpeg" />
+		<enclosure url="https://content.jquery.com/podcast/jQueryPodcast-037-BenNadel.mp3" length="17577483" type="audio/mpeg" />
 		</item>
 	</channel>
 </rss>
