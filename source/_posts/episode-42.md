@@ -3,13 +3,13 @@ title: "42 - jQuery Mobile Keynote"
 date: "2011-04-29T08:00:00-05:00"
 slug: "episode-42-jquery-mobile-keynote"
 path: "/2011/04/29/{slug}/"
-enclosure: http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3
+enclosure: https://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3
 ---
 Todd Parker and Scott Jehl deliver the jQuery Mobile keynote from the jQuery Conference 2011: SF BAy Area. Follow along with the slides.
 
 Host: Ralph Whitbeck &amp; Rey Bango.
 
-<audio src="http://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" controls=""></audio>
+<audio src="https://content.jquery.com/podcast/jQueryPodcast-042-jQCon11SFjQueryMobileKeynote.mp3" controls=""></audio>
 
 ## Description
 
