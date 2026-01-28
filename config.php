@@ -2,7 +2,7 @@
 
 return [
   'sitename' => 'The Official jQuery Podcast',
-  'playerImage' => 'https://cdn.jquery.net/podcast/wp-content/uploads/2010/09/jquerypodcast.png',
+  'playerImage' => 'https://podcast.jquery.com/wp-content/uploads/2010/09/jquerypodcast.png',
   'baseUrl' => '/',
   'build' => [
     // 'source' => 'source',

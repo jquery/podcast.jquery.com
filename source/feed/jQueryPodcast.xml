@@ -14,7 +14,7 @@
 			<itunes:name>Ralph Whitbeck</itunes:name>
 			<itunes:email>podcast@jquery.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://cdn.jquery.net/podcast/wp-content/uploads/2010/09/jquerypodcast.png" />
+		<itunes:image href="https://podcast.jquery.com/wp-content/uploads/2010/09/jquerypodcast.png" />
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News" />
 			<itunes:category text="Software How-To" />
