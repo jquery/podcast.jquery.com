@@ -105,6 +105,11 @@ pre {
   overflow-wrap: break-word;
 }
 
+main img[align="right"] {
+  clear: right;
+  margin: 0 0 0.5em 0.5em;
+}
+
 .post-nav {
   margin-top: 1em;
   border-top: 10px solid #efefef;

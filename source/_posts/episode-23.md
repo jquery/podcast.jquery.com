@@ -17,15 +17,18 @@ This week Ralph and Rey sat down with [Nicholas Zakas](https://humanwhocodes.com
 
 Rey and Ralph give us their tutorial and plugin of the week recommendations.
 
+## Guest
+
+<img src="https://blog.jquery.com/wp-content/uploads/2010/05/nicholas_ralph_jqconBA2010.jpg" alt="Nicholas Zakas and Ralph Whitbeck" width="300" height="209" align="right">
+
+**Nicholas Zakas** - principal front end engineer for the Yahoo! homepage.
+
 ## Links from interview
 
+<img src="https://blog.jquery.com/wp-content/uploads/2010/05/rey_Nicholas_jqcon2010BA.jpg" alt="Rey Bango interviews Nicholas Zakas for his blog" width="300" height="228" align="right">
+
 * [YUI Theater — “High Performance JavaScript”](https://www.youtube.com/watch?v=_fUGWFGUrUw) by Nicholas Zakas, Stoyan Stefanov, Ross Harmes, Julien Lecomte, Matt Sweeney (92 min.) ([archived](http://web.archive.org/web/20181128025802/https://yuiblog.com/blog/2010/04/21/video-hpjs/))
-
-Rey Bango interviews Nicholas Zakas for his blog
-
-<img src="http://web.archive.org/web/20101202050538im_/http://blog.jquery.com/wp-content/uploads/2010/05/rey_Nicholas_jqcon2010BA.jpg" alt="Rey Bango interviews Nicholas Zakas for his blog" width="300" height="228">
-
-[Rey Bango’s video interview with Nicholas Zakas](http://web.archive.org/web/20101202050538/http://blip.tv/file/3591472/)
+* [Rey Bango’s video interview with Nicholas Zakas](http://web.archive.org/web/20101202050538/http://blip.tv/file/3591472/)
 
 ## Plugin of the week
 
