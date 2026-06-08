@@ -6,7 +6,7 @@ home: true
 @extends('_layouts.page')
 
 @section('content')
-<p>A weekly show that aims to interview key members of the jQuery Community and present jQuery news from the past week. The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team.</p>
+<p>A weekly show that aims to interview key members of the jQuery Community and present jQuery news from the past week. The show is co-hosted by Ralph Whitbeck and Rey Bango both members of the jQuery Developer Relations team. "jQuery Theme" song created by Jonathan Neal.</p>
 
 <p>Listen on <a href="https://podcasts.apple.com/podcast/id339835419">Apple Podcasts</a>, <a href="https://pca.st/itunes/339835419">Pocket Casts</a>, <a href="https://overcast.fm/itunes339835419">Overcast</a>, or use the <a href="https://feeds.feedburner.com/jQueryPodcast">RSS Feed</a>.</p>
 

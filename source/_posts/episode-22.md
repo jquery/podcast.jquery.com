@@ -13,12 +13,18 @@ Host: Ralph Whitbeck &amp; Rey Bango.
 
 ## Interview
 
+<img src="https://blog.jquery.com/wp-content/uploads/2010/05/James-Ralph-e1273202068352.jpg" alt="James Senior and Ralph Whitbeck at jQuery Conference" width="250" height="183" align="right">
+
 This week we interview James Senior of Microsoft while in attendance at the Bay Area jQuery Conference. We also announce the new co-host who replaces Elijah, Rey Bango, Head of Developer Relations on the jQuery team.
 
 We also send out our thoughts to Elijah and his family as they live in the Nashville area and are dealing with the flooding that occurred this weekend. He and his family are fine and no damage to his house but he says many in his area are homeless with homes damaged by the flood. If you’d like to donate to help people in need due to the Nashville flooding, please consider giving to the American Red Cross Disaster Relief fund at [redcross.org](https://www.redcross.org/).
 
 * [Rey Bango](https://blog.reybango.com/about/) will replace Elijah Manor as the new co-host
 * Please consider donating to the Distaster Relief Fund to help those affected by the Nashville floods where Elijah is from at redcross.org.
+
+## Guest
+
+**James Senior** - Web Technology Evangelist at Microsoft.
 
 ## Links mentioned
 
